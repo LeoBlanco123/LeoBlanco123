@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leonardo Blanco, deenvolvedor Full Stack
+## Olá! Eu sou o Leonardo Blanco, desenvolvedor Full Stack
 
 - 🌱 Eu estou atualmente estudando Analise e Desenvolvimento de Sistemas
 
